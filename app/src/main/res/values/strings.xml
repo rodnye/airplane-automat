@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Hello World</string>
+  <string name="app_name">Airplane AutoMat</string>
+  <string name="button_reconnect">Reconectar</string>
+  <string name="status_idle">Esperando acción</string>
+  <string name="status_toggling">Alternando modo avión…</string>
+  <string name="status_waiting">Esperando 3 segundos…</string>
+  <string name="status_restoring">Restaurando hotspot…</string>
+  <string name="status_done">Reconexión completada</string>
+  <string name="status_error">Error: %s</string>
 </resources>
